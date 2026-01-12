@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "METEOR",
+  "base_artist": "DIVELA",
+  "createdAt": "2026-01-12T12:15:36.523015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born Under A Meteor",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/01_Born_Under_A_Meteor_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There's a Meteor Coming",
+      "artist": "Trevor Moore",
+      "has_synced": false,
+      "path": "select/02_There's_a_Meteor_Coming_Trevor_Moore.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meteor",
+      "artist": "Voivod",
+      "has_synced": true,
+      "path": "select/03_Meteor_Voivod.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meteor",
+      "artist": "The Bird and the Bee",
+      "has_synced": false,
+      "path": "select/04_Meteor_The_Bird_and_the_Bee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Meteor Of War",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/05_Meteor_Of_War_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meteor",
+      "artist": "SPC ECO",
+      "has_synced": false,
+      "path": "select/06_Meteor_SPC_ECO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Meteor",
+      "artist": "Architects",
+      "has_synced": true,
+      "path": "select/07_Meteor_Architects.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Meteor Shower",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/08_Meteor_Shower_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "METEOR",
+      "artist": "DIVELA",
+      "has_synced": true,
+      "path": "select/09_METEOR_DIVELA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Meteor Shower",
+      "artist": "Cavetown",
+      "has_synced": true,
+      "path": "select/10_Meteor_Shower_Cavetown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Murder Suicide Meteor Slave",
+      "artist": "Jeff Buckley",
+      "has_synced": true,
+      "path": "select/11_Murder_Suicide_Meteor_Slave_Jeff_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Love You Want (Night Version) [From \"Meteor Garden\" Original Soundtrack]",
+      "artist": "戴佩妮",
+      "has_synced": true,
+      "path": "select/12_The_Love_You_Want_(Night_Version)_[From__Meteor_Garden__Original_Soundtrack]_戴佩妮.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Space Trip Steps ...for Meteor Herd",
+      "artist": "SEGA SOUND TEAM feat. Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/13_Space_Trip_Steps_...for_Meteor_Herd_SEGA_SOUND_TEAM_feat._Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Space Trip Steps ...For Meteor Herd",
+      "artist": "Tomoya Ohtani",
+      "has_synced": true,
+      "path": "select/14_Space_Trip_Steps_...For_Meteor_Herd_Tomoya_Ohtani.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Meteor Drip",
+      "artist": "Kise",
+      "has_synced": true,
+      "path": "select/15_Meteor_Drip_Kise.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "METEOR",
+      "artist": "DIVELA",
+      "has_synced": false,
+      "path": "select/pl_01_METEOR_DIVELA.txt"
+    }
+  ]
+}
